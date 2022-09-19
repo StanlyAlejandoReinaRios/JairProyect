@@ -1,0 +1,14 @@
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\bin\Debug\net6.0\ExamenCQRS.Library.deps.json
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\bin\Debug\net6.0\ExamenCQRS.Library.runtimeconfig.json
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\bin\Debug\net6.0\ExamenCQRS.Library.dll
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\bin\Debug\net6.0\ExamenCQRS.Library.pdb
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.csproj.AssemblyReference.cache
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.AssemblyInfoInputs.cache
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.AssemblyInfo.cs
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.csproj.CoreCompileInputs.cache
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.dll
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\refint\ExamenCQRS.Library.dll
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.pdb
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ExamenCQRS.Library.genruntimeconfig.cache
+C:\Users\Stanly\source\repos\ExamenCQRS.Library\obj\Debug\net6.0\ref\ExamenCQRS.Library.dll
